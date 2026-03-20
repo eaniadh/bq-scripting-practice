@@ -79,3 +79,13 @@ This repository demonstrates:
 Strong SQL + scripting skills
 Platform-level BigQuery expertise
 Ability to design production-grade pipelines
+
+BigQuery Native Warehouse Engineering
+SCD1 vs SCD2
+MERGE internals and patterns
+partition/clustering design
+late-arrival strategies
+schema drift handling
+audit logging
+restartability and idempotency
+cost tuning on large datasets
